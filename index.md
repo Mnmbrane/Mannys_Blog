@@ -3,19 +3,15 @@ layout: page
 title: Manny's Blog
 ---
 
-This blog documents my hands-on project work from start to finish, including planning, implementation, issues, fixes, and lessons learned.
+This blog documents my active engineering projects in a practical, build-focused format.
 
-The goal is to make each post practical and useful so others can follow the process, reuse what works, and avoid common mistakes.
+Each project page includes:
 
-## What You'll Find Here
+- A running TODO list
+- Daily progress updates
+- Architecture and design decisions
+- Lessons learned and implementation details
 
-- Project updates and build logs
-- Technical decisions and tradeoffs
-- Problems encountered and how they were solved
-- Real results and next steps
+## Projects
 
-## Latest Posts
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %-d, %Y" }}
-{% endfor %}
+- [Automated Lawnmower]({{ '/automated-lawnmower/' | relative_url }})
