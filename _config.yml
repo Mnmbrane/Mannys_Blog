@@ -1,7 +1,7 @@
 title: "My Project Blog"
 description: "Build logs, lessons learned, and practical guides from my projects."
 url: ""
-baseurl: ""
+baseurl: "/Mannys_Blog"
 theme: minima
 plugins:
   - jekyll-feed

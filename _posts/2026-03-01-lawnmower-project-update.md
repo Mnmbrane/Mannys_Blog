@@ -19,7 +19,7 @@ This project is focused on building and improving a lawnmower setup, while docum
 
 ## Project Photo
 
-![Lawnmower project photo](/assets/images/lawnmower/lawnmower-photo.jpg)
+![Lawnmower project photo]({{ '/assets/images/lawnmower/lawnmower-photo.jpg' | relative_url }})
 
 If the image is not showing yet, add your photo file at:
 `assets/images/lawnmower/lawnmower-photo.jpg`
