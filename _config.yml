@@ -1,0 +1,10 @@
+title: "My Project Blog"
+description: "Build logs, lessons learned, and practical guides from my projects."
+url: ""
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
+
+author:
+  name: "Your Name"
